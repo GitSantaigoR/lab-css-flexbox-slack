@@ -1,3 +1,35 @@
+html {
+    font-size: 10px;
+
+}
+
+
+
+body {
+    background-color:  #540B51;
+
+}
+ .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+
+ img {
+    max-width: 98vw;
+    width: 8rem;
+ }
+ button {
+    max-width: 98vw;
+    width: 8rem;
+ }
+.navcontainer {
+    display: flex;
+flex-direction: row;
+}
+
+
+
 /*
 background purple: #540B51
 background ivory: #F3EAE2
